@@ -2,8 +2,11 @@
 # Generador Seguro de Contraseñas
 
 **Autor:** Marlon Javier Ruiz Taruchaín
+
 **Asignatura:** Lógica de Programación, Universidad Internacional del Ecuador (UIDE)
+
 **Docente:** Reidel González Paz
+
 **Fecha:** 10 de octubre de 2026
 
 ## Objetivo del sistema
